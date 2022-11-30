@@ -9,7 +9,7 @@ Game Developer
 * ✉️  You can contact me at [aphilipp@bitshiftgames.com](mailto:aphilipp@bitshiftgames.com)
 * 🚀  I'm currently working on [Drag Toss](http://bitshiftgames.com/dragtoss.html)
 * 🧠  I'm learning C++
-* 🤝  I'm open to collaborating on App and Games
+* 🤝  I'm open to collaborating on Apps and Games
 
 ### Skills
 
